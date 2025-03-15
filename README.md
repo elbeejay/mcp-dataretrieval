@@ -1,9 +1,10 @@
 # MCP Wrapper to the USGS Python Data Retrieval Library
 
-This repository contains MCP-compliant functions for retrieving data using the USGS Python `dataretrieval` package.
+This repository contains MCP-compliant functions for retrieving data using the USGS Python `dataretrieval` package ([Link](https://github.com/DOI-USGS/dataretrieval-python)).
 There are two versions of the MCP implemented:
 
 1. `manual_mcp_dataretrieval.py`: A manual implementation of the MCP functions that interact with the `dataretrieval` package.
+
 2. `mcp_dataretrieval.py`: An automated implementation of the MCP functions that interact with the `dataretrieval` package that utilizes the MCP Python SDK.
 
 ## Installation and Setup
